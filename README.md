@@ -2,11 +2,11 @@
 
 **AI/ML Engineer · Deep learning, computer vision & AI agents · Turning models into real products**
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedAliKhan3&color=crimson&style=flat-square&label=Profile+views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Ali%20Khan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ali-khan-3089a334a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-110%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/MohammedAlikhan1/)
-[![Medium](https://img.shields.io/badge/Medium-@alikhanwork649-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alikhanwork649)
-[![Email](https://img.shields.io/badge/Email-alikhanwork649%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alikhanwork649@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedAliKhan3&color=dc143c&style=flat-square&label=Profile+views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ali-khan-3089a334a)
+[![LeetCode](https://img.shields.io/badge/LeetCode_110%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/MohammedAlikhan1/)
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alikhanwork649)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alikhanwork649@gmail.com)
 
 ---
 
